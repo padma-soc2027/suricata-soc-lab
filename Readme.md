@@ -1,8 +1,8 @@
 # Suricata SOC lab
-*Objective:* Detect and Analyze network threats using suricata IDS.
+**Objective:** Detect and Analyze network threats using suricata IDS.
 ### Key Detections from 'sample-fast.log'
 1.'GPL ATTACK_RESPONSE id check returned root'
--Potenial post-exploitation activity
+-Potential post-exploitation activity
 -Priority 2 alert indicating attacker privilege check
 
 2.'ET INFO GNU/LINUX APT User-Agent'
